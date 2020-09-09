@@ -3,3 +3,5 @@ Change1 : Changing the branch by team mate (Conflict Senerio)
 Change 2: logout feature
 change 3: To test stash 
 change 4 : Modifying for remote repository
+
+change 5:Change made in remote repository by team mate and we are about to tesl pull
